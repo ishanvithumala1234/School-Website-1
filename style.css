@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+#video {
+    width: 50%;
+    height: 500px;
+    border: black;
+}
+
+#marqueestyle {
+    background-color: aqua;
+    color: black;
+    font-style: normal
+}
+
+.my_nav_bar {
+    position: sticky;
+    top: 0px;
+    z-index: 99999;
+}
+
+#map iframe {
+    width: 100%;
+}
+
+#Details h3 {
+    display: inline;
+}
